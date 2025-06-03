@@ -43,10 +43,10 @@ O sistema permite controlar turmas, registrar matrículas e armazenar as notas d
 ## 🗂️ Modelos
 
 ### Modelo Conceitual
-![Modelo Conceitual](imagens/Modelo Conceitual.png)
+![Modelo Conceitual](imagens/modelo_conceitual.png)
 
 ### Modelo Lógico
-![Modelo Lógico](imagens/Modelo Lógico.png)
+![Modelo Lógico](imagens/modelo_logico.png)
 
 ---
 
