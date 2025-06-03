@@ -52,7 +52,7 @@ O sistema permite controlar turmas, registrar matrículas e armazenar as notas d
 
 ## 💾 Execução
 
-1. Crie o banco com o script em `/sql/modelo_fisico.sql`
+1. crie  o banco com o script em `/sql/modelo_fisico.sql`
 2. Execute os comandos no MySQL Workbench
 3. Os dados iniciais já estão populados nas tabelas
 
