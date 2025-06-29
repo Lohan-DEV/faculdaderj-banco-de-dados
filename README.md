@@ -90,5 +90,5 @@ Modelo Lógico
 
 🎬 Apresentação em Vídeo
 
-Explicação do projeto, modelos, escolhas e SQL:🔗 [Inserir link do YouTube ou LinkedIn aqui]
+Explicação do projeto, modelos, escolhas e SQL:🔗 https://www.linkedin.com/posts/lohan-lucas-5a3623360_bancodedados-analisededados-mysql-activity-7344881667255242752--ZFC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFnLAYsBSFXgpxZzbVzteFyqxZRFGTQ7Xc8
 
